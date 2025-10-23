@@ -1,5 +1,3 @@
-## Backlog-
-
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Requisito do Cliente | Status |
